@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Yulai Zhao"
   avatar           : "profile.png"
-  bio              : "Graduate Student"
   location         : "NJ, 08544"
-  email            : "zhaoyl18thu@gmail.com"
+  email            : "yulaiz@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -93,7 +92,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhaoyl18"
   google_plus      :
   pinterest        :
   soundcloud       :
