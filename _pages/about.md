@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am first-year Ph.D. student at Princeton University, interested in theories and applications of ML.
+Hi! I am Yulai Zhao, a first-year Ph.D. student at Princeton University. My interests lie in theories and applications of modern machine learning.
 
 
 Education
