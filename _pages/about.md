@@ -21,6 +21,7 @@ Publications
 ======
 * Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games
 * Blessing of Class Diversity in Pre-training
+* Optimizing the Performative Risk under Weak Convexity Assumptions
 
 
 
