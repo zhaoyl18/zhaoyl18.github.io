@@ -13,8 +13,8 @@ Hi! I am Yulai Zhao, a first-year Ph.D. student at Princeton University. My inte
 Education
 ======
 * Graduate Student, ECE, Princeton University, 2022.8 – Present
-* Undergraduate, EE, Tsinghua University, 2018.8 - 2022.6
 * Visiting Student, Institute for Machine Learning, ETH Zurich, 2021.6 – 2021.9
+* Undergraduate, EE, Tsinghua University, 2018.8 - 2022.6
 
 
 Publications
