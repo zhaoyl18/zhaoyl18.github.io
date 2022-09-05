@@ -20,8 +20,8 @@ Education
 Publications
 ======
 * [Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games](https://proceedings.mlr.press/v151/zhao22b.html)
-* [Blessing of Class Diversity in Pre-training](https://openreview.net/forum?id=a_nR4BPPJF1)
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://arxiv.org/abs/2209.00771)
+* Blessing of Class Diversity in Pre-training
 
 
 
