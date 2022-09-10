@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "CHN"
-title                    : "Yulai Zhao 赵雨来"
+locale                   : "U.S."
+title                    : "Yulai Zhao"
 title_separator          : "-"
 name                     : &name "Yulai Zhao"
 description              : &description "student"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Yulai Zhao"
   avatar           : "profile.png"
-  location         : "NJ, 08544"
+  bio              : "Ph.D. student @ Princeton"
+  # location         : "Princeton, U.S."
   email            : "yulaiz@princeton.edu"
   linkedin         :  yulai-zhao-a3a056189
   googlescholar    :  https://scholar.google.com/citations?hl=zh-CN&user=r-mWYj0AAAAJ
