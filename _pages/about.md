@@ -10,12 +10,12 @@ redirect_from:
 Hi! I am Yulai Zhao, a first-year Ph.D. student at Princeton University. My interests lie in theories and applications of modern machine learning.
 
 
-Education
+Experiences
 ======
-* Graduate Student, ECE, Princeton University                      2022.8 – Present
-* Visiting Student, Institute for Machine Learning, ETH Zurich     2021.6 – 2021.9
-* Research Assistant(Remote), University of Washington             2020.6 - 2021.5
-* Undergraduate, EE, Tsinghua University                           2018.8 - 2022.6
+* Graduate Student, ECE, Princeton University.                      2022.8 – Present
+* Visiting Student, Institute for Machine Learning, ETH Zurich.     2021.6 – 2021.9
+* Research Assistant(Remote), CS&E, University of Washington.             2020.6 - 2021.5
+* Bachelor of Engineering in EE, Tsinghua University.               2018.8 - 2022.6
 
 
 Publications
