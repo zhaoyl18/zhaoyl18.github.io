@@ -21,7 +21,7 @@ Publications
 ======
 * [Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games](https://proceedings.mlr.press/v151/zhao22b.html)   
 Yulai Zhao, Yuandong Tian, Jason Lee, Simon Du   
-AISTATS 2022
+International Conference on Artificial Intelligence and Statistics 2022
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://arxiv.org/abs/2209.00771)    
 Yulai Zhao   
 Neurips 2022 Workshop on Optimization for Machine Learning
