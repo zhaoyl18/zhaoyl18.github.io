@@ -12,11 +12,10 @@ Hi! I am Yulai Zhao, a first-year Ph.D. student at Princeton University. My inte
 
 Experiences
 ======
-* Graduate Student, ECE, Princeton University.                      2022.8 – Present
-* Visiting Student, Institute for Machine Learning, ETH Zurich.     2021.6 – 2021.9
-* Research Assistant (Remote), CS&E, University of Washington.      2020.6 - 2021.5
-* Bachelor of Engineering, EE, Tsinghua University.               2018.8 - 2022.6
-
+* Graduate Student, ECE, Princeton University.
+* Visiting Student, Institute for Machine Learning, ETH Zürich.
+* Research Assistant, CS&E, University of Washington.
+* Bachelor of Engineering, EE, Tsinghua University.
 
 Publications
 ======
@@ -25,7 +24,7 @@ Yulai Zhao, Yuandong Tian, Jason Lee, Simon Du
 AISTATS 2022
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://arxiv.org/abs/2209.00771)    
 Yulai Zhao   
-14th Annual Workshop on Optimization for Machine Learning
+Neurips 2022 Workshop on Optimization for Machine Learning
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)   
 Yulai Zhao, Jianshu Chen, Simon S. Du
 
