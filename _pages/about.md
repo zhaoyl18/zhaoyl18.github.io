@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yulai Zhao, a first-year Ph.D. student at Princeton University. My research interests lie in theories and applications of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in more exciting and practical scenarios.
+Hi! I am Yulai Zhao. My research interests lie in theories and applications of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in more exciting and practical scenarios.
 
 Experiences
 ======
-* Graduate Student, ECE, Princeton University.
+* Ph.D. student, Electrical and Computer Engineering, Princeton University.
 * Visiting Student, Institute for Machine Learning, ETH Zürich.
-* Research Assistant, CS&E, University of Washington.
-* Bachelor of Engineering, EE, Tsinghua University.
+* Research Assistant, Computer Science & Engineering, University of Washington.
+* Bachelor of Engineering, Electronic Engineering, Tsinghua University.
 
 Publications
 ======
