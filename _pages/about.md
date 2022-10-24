@@ -23,7 +23,7 @@ Publications
 International Conference on Artificial Intelligence and Statistics 2022
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://arxiv.org/abs/2209.00771)    
 **Yulai Zhao**   
-Neurips 2022 Workshop on Optimization for Machine Learning
+NeurIPS 2022 Workshop on Optimization for Machine Learning
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)   
 **Yulai Zhao**, Jianshu Chen, Simon S. Du
 
