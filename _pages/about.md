@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yulai Zhao. My research interests lie in theories and applications of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice.
+Hi! I am Yulai Zhao. My research interests lie in theoretical aspects for modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice.
 
 Experiences
 ======
