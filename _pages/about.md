@@ -19,7 +19,7 @@ Experiences
 Publications
 ======
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)   
-**Yulai Zhao**, Jianshu Chen, Simon S. Du
+**Yulai Zhao**, Jianshu Chen, Simon Du   
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
 
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)    
