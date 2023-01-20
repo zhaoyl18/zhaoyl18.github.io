@@ -26,8 +26,4 @@ International Conference on Artificial Intelligence and Statistics (AISTATS) 202
 NeurIPS 2022 Workshop on Optimization for Machine Learning
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)   
 **Yulai Zhao**, Jianshu Chen, Simon S. Du
-
-
-
-
-
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
