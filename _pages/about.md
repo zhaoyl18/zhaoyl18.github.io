@@ -18,12 +18,17 @@ Experiences
 
 Publications
 ======
-* [Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games](https://proceedings.mlr.press/v151/zhao22b.html)   
-**Yulai Zhao**, Yuandong Tian, Jason Lee, Simon Du   
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
-* [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)    
-**Yulai Zhao**   
-NeurIPS 2022 Workshop on Optimization for Machine Learning
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)   
 **Yulai Zhao**, Jianshu Chen, Simon S. Du
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
+
+* [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)    
+**Yulai Zhao**   
+NeurIPS 2022 Workshop on Optimization for Machine Learning
+
+* [Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games](https://proceedings.mlr.press/v151/zhao22b.html)   
+**Yulai Zhao**, Yuandong Tian, Jason Lee, Simon Du   
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
+
+
+
