@@ -14,7 +14,7 @@ Experiences
 * Ph.D. student, Electrical and Computer Engineering, Princeton University.
 * Visiting Student, Institute for Machine Learning, ETH Zürich.
 * Research Assistant, Computer Science & Engineering, University of Washington.
-* Bachelor of Engineering, Electronic Engineering, Tsinghua University.
+* Bachelor, Electronic Engineering, Tsinghua University.
 
 Publications
 ======
