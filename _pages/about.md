@@ -15,8 +15,10 @@ Experiences
 ======
 * Ph.D. student @ Electrical and Computer Engineering, Princeton University. 
 <!-- Fortunately advised by Prof [S.Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and [Jason D. Lee](https://jasondlee88.github.io/) -->
-* Visiting Student @ Institute for Machine Learning, ETH Zürich. Hosted by Prof [Aurelien Lucchi](https://t.co/MWMK6o7qIq)
-* Research Assistant @ Computer Science & Engineering, University of Washington. Hosted by Prof [Simon S. Du](https://simonshaoleidu.com/)
+* Visiting Student @ Institute for Machine Learning, ETH Zürich.
+<!-- Hosted by Prof [Aurelien Lucchi](https://t.co/MWMK6o7qIq) -->
+* Research Assistant @ Computer Science & Engineering, University of Washington.
+<!-- Hosted by Prof [Simon S. Du](https://simonshaoleidu.com/) -->
 * Bachelor @ Electronic Engineering, Tsinghua University.
 
 Publications
