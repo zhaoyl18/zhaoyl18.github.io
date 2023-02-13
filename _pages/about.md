@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I'm Yulai, a Ph.D. student at Princeton. I'm fortunately advised by Professor [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and [Jason D. Lee](https://jasondlee88.github.io/). My research interests lie in theories/experiments of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice. -->
+<!-- I'm Yulai, a Ph.D. student at Princeton. I'm fortunately advised by Professor [S.Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and [Jason D. Lee](https://jasondlee88.github.io/). My research interests lie in theories/experiments of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice. -->
 
 I'm Yulai, a Ph.D. student at Princeton University. My research interests lie in theories/experiments of modern machine learning. I am also eager to apply modern data-driven approaches to practice.
 
 Experiences
 ======
-* Ph.D. student, Electrical and Computer Engineering, Princeton University.
-* Visiting Student, Institute for Machine Learning, ETH Zürich.
-* Research Assistant, Computer Science & Engineering, University of Washington.
-* Bachelor, Electronic Engineering, Tsinghua University.
+* Ph.D. student @ Electrical and Computer Engineering, Princeton University. Advised by [S.Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and [Jason D. Lee](https://jasondlee88.github.io/)
+* Visiting Student @ Institute for Machine Learning, ETH Zürich. Hosted by [Aurelien Lucchi](https://t.co/MWMK6o7qIq)
+* Research Assistant @ Computer Science & Engineering, University of Washington. Hosted by [Simon S. Du](https://simonshaoleidu.com/)
+* Bachelor @ Electronic Engineering, Tsinghua University.
 
 Publications
 ======
