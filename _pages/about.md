@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yulai Zhao. My research interests lie in theoretical aspects for modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice.
+<!-- I'm Yulai, a Ph.D. student at Princeton. I'm fortunately advised by Professor [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and [Jason D. Lee](https://jasondlee88.github.io/). My research interests lie in theories/experiments of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice. -->
+
+I'm Yulai, a Ph.D. student at Princeton University. My research interests lie in theories/experiments of modern machine learning. I am also eager to apply modern data-driven approaches to practice.
 
 Experiences
 ======
@@ -20,7 +22,7 @@ Publications
 ======
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)   
 **Yulai Zhao**, Jianshu Chen, Simon Du   
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 (Oral)
 
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)    
 **Yulai Zhao**   
