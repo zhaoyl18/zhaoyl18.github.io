@@ -1,14 +1,14 @@
 ---
 permalink: /
-excerpt: "About me"
+# excerpt: "# About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About Me
+# About Me
 
-I'm Yulai, a Ph.D. student at Princeton with a focus on machine learning. I'm very fortunate to be co-advised by [Jason D. Lee](https://jasondlee88.github.io/) and [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and . My departmental page can be found [here](https://ece.princeton.edu/people/yulai-zhao).
+I'm Yulai, a Ph.D. student at Princeton with a focus on machine learning. I'm very fortunate to be co-advised by [Jason D. Lee](https://jasondlee88.github.io/) and [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung). My departmental page can be found [here](https://ece.princeton.edu/people/yulai-zhao).
 
 My research interests lie in theories/experiments of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice.
 <!-- I'm Yulai, a Ph.D. student at Princeton University. My research interests lie in theories/experiments of modern machine learning. I am also eager to apply modern data-driven approaches to practice. -->
