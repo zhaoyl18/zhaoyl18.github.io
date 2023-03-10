@@ -6,16 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-======
+##
 
 I'm Yulai, a Ph.D. student at Princeton with a focus on machine learning. I'm very fortunate to be co-advised by Professor [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and Professor [Jason D. Lee](https://jasondlee88.github.io/). My departmental page can be found [here](https://ece.princeton.edu/people/yulai-zhao).
 
 My research interests lie in theories/experiments of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice.
 <!-- I'm Yulai, a Ph.D. student at Princeton University. My research interests lie in theories/experiments of modern machine learning. I am also eager to apply modern data-driven approaches to practice. -->
 
-Experiences
-======
+## Experiences
 
 * Ph.D. student, Electrical and Computer Engineering, Princeton University.
 <!-- Fortunately advised by Prof [S.Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and [Jason D. Lee](https://jasondlee88.github.io/) -->
@@ -25,8 +23,7 @@ Experiences
 <!-- Hosted by Prof [Simon S. Du](https://simonshaoleidu.com/) -->
 * Bachelor, Electronic Engineering, Tsinghua University.
 
-Publications
-======
+## Publications
 
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)   
 **Yulai Zhao**, Jianshu Chen, Simon Du   
