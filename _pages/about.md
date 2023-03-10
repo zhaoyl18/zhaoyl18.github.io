@@ -1,13 +1,12 @@
 ---
 permalink: /
-excerpt: "About Me"
+title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-===
 
 I'm Yulai, a Ph.D. student at Princeton with a focus on machine learning. I'm very fortunate to be co-advised by Professor [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and Professor [Jason D. Lee](https://jasondlee88.github.io/). My departmental page can be found [here](https://ece.princeton.edu/people/yulai-zhao).
 
