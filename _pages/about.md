@@ -25,6 +25,10 @@ My research interests lie in theories/experiments of modern machine learning. I 
 
 ## Publications
 
+* [Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=V4jD1KmnQz)  
+**Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason Lee  
+International Conference on Machine Learning (ICML) 2023
+
 * [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)  
 **Yulai Zhao**, Jianshu Chen, Simon Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 (Oral)
