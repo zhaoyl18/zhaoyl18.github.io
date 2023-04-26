@@ -29,9 +29,9 @@ My research interests lie in theories/experiments of modern machine learning. I 
 **Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason Lee  
 International Conference on Machine Learning (ICML) 2023
 
-* [Blessing of Class Diversity in Pre-training](https://arxiv.org/abs/2209.03447)  
+* [Blessing of Class Diversity in Pre-training](https://proceedings.mlr.press/v206/zhao23a.html)  
 **Yulai Zhao**, Jianshu Chen, Simon Du  
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 (Oral)
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 (**Oral**)
 
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)  
 **Yulai Zhao**  
