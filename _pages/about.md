@@ -31,7 +31,8 @@ International Conference on Machine Learning (ICML) 2023
 
 * [Blessing of Class Diversity in Pre-training](https://proceedings.mlr.press/v206/zhao23a.html)  
 **Yulai Zhao**, Jianshu Chen, Simon S. Du  
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 (**Oral, Notable Paper**)
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023  
+**Oral Presentation, Notable Paper**  
 
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)  
 **Yulai Zhao**  
