@@ -1,12 +1,12 @@
 ---
 permalink: /talks/
 author_profile: true
-title: "Talks and presentation"
+title: "Talks and presentations"
 redirect_from:
   - /talks.html
 ---
 
-* Risk sensitive Reinforcement Learning with Low-rank MDPs  
+* Risk Sensitive Reinforcement Learning with Low-rank MDPs  
 [Slides](https://yulaizhao.com/files/slides_riskRL.pdf)  
 
 * Blessing of Class Diversity in Pre-training  
