@@ -24,8 +24,8 @@ redirect_from:
 
 ## Course Presentations
 
-* Eigenface Recognition with Deep PCA (Proposal)
+* Eigenface Recognition with Deep PCA (Proposal)  
 [Slides](https://yulaizhao.com/files/slides_ECE571_proposal.pdf)  
 
-* In-context Learning Capabilities of Transformers  
+* What Can Transformers Learn In-Context?  
 [Slides](https://yulaizhao.com/files/slides_in_context_learning.pdf)
