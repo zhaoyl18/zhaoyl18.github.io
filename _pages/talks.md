@@ -1,10 +1,12 @@
 ---
 permalink: /talks/
 author_profile: true
-title: "Talks and presentations"
+title: "Talks and Presentations"
 redirect_from:
   - /talks.html
 ---
+
+## Research Talks
 
 * Risk Sensitive Reinforcement Learning with Low-rank MDPs  
 [Slides](https://yulaizhao.com/files/slides_riskRL.pdf)  
@@ -19,3 +21,11 @@ redirect_from:
 [Slides](https://yulaizhao.com/files/slides_pgt.pdf)  
 
 <!-- <a href="files/resume-yulai.pdf" target="_blank">PDF.</a> -->
+
+## Course Presentations
+
+* Eigenface Recognition with Deep PCA (Proposal)
+[Slides](https://yulaizhao.com/files/slides_ECE571_proposal.pdf)  
+
+* In-context Learning Capabilities of Transformers  
+[Slides](https://yulaizhao.com/files/slides_in_context_learning.pdf)
