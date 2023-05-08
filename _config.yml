@@ -159,16 +159,16 @@ kramdown:
 
 
 # Collections
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,7 +227,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
