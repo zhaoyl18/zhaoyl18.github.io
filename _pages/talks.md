@@ -20,8 +20,6 @@ redirect_from:
 * Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games  
 [Slides](https://yulaizhao.com/files/slides_pgt.pdf)  
 
-<!-- <a href="files/resume-yulai.pdf" target="_blank">PDF.</a> -->
-
 ## Course Presentations
 
 * Eigenface Recognition with Deep PCA (Proposal)  
