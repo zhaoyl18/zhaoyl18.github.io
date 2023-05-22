@@ -22,7 +22,7 @@ redirect_from:
 
 ## Other Presentations
 
-* Eigenface Recognition with Deep PCA  
+* Eigenface++: Face Recognition with Deep PCA  
 [Slides](https://yulaizhao.com/files/slides_ECE571_final.pdf) [Report](https://yulaizhao.com/files/report_ECE571_final.pdf)  
 
 * What Can Transformers Learn In-Context?  
