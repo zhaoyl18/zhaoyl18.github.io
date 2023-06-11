@@ -8,6 +8,9 @@ redirect_from:
 
 ## Research Talks
 
+* Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
+[[Slides]](https://yulaizhao.com/files/slides_localpgt.pdf)
+
 * Risk Sensitive Reinforcement Learning with Low-rank MDPs  
 [[Slides]](https://yulaizhao.com/files/slides_riskRL.pdf)  
 
