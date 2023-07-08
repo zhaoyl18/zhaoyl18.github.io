@@ -25,7 +25,7 @@ My research interests lie in theories/experiments of modern machine learning. I 
 
 ## Selected Publications
 
-* [Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2305.04819)  
+* [Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v202/zhao23j.html)  
 **Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason D. Lee  
 International Conference on Machine Learning (ICML) 2023
 
