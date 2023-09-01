@@ -1,12 +1,12 @@
 ---
 permalink: /talks/
 author_profile: true
-title: "Talks and Presentations"
+title: "Talks"
 redirect_from:
   - /talks.html
 ---
 
-## Research Talks
+## Research
 
 * Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
 [[Slides]](<https://yulaizhao.com/files/slides_localpgt.pdf>)
