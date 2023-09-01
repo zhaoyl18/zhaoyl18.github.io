@@ -42,6 +42,8 @@ NeurIPS 2022 Workshop on Optimization for Machine Learning
 **Yulai Zhao**, Yuandong Tian, Jason D. Lee, Simon S. Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
 
-## Teaching Assistants
+## Teaching
 
-* ECE 435/535: Machine Learning and Pattern Recognition (2023 Fall at Princeton)
+At Princeton, I have been a graduate teaching assistant for:
+
+* ECE 435/535: Machine Learning and Pattern Recognition (2023 Fall)
