@@ -1,9 +1,9 @@
 ---
-permalink: /talks/
+permalink: /teaching/
 author_profile: true
-title: "Talks and Presentations"
+title: "Teaching"
 redirect_from:
-  - /talks.html
+  - /teaching.html
 ---
 
 ## Teaching Assistant Experiences
