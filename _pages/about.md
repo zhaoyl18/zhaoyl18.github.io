@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yulai, a Ph.D. student focusing on machine learning. I am fortunate to be co-advised by Professor [Jason D. Lee](https://jasondlee88.github.io/) and Professor [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung). Departmental page can be found [here](https://ece.princeton.edu/people/yulai-zhao).
+I am Yulai, a second-year Ph.D. student working on machine learning. I am fortunate to be co-advised by Professor [Jason D. Lee](https://jasondlee88.github.io/) and Professor [S. Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung). Departmental page can be found [here](https://ece.princeton.edu/people/yulai-zhao).
 
 My research interests lie in theories/experiments of modern machine learning. I am also eager to investigate the infinite potential of modern data-driven approaches in practice.
 <!-- I'm Yulai, a Ph.D. student at Princeton University. My research interests lie in theories/experiments of modern machine learning. I am also eager to apply modern data-driven approaches to practice. -->
