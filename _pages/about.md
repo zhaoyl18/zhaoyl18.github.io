@@ -25,24 +25,24 @@ My research interests lie in theories/experiments of modern machine learning. I 
 ## Selected Publications
 
 * [Provably Efficient CVaR RL in Low-rank MDPs](https://openreview.net/forum?id=Vg6oMb7fbh)  
-Yulai Zhao*, Wenhao Zhan*, Xiaoyan Hu*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason Lee  
+**Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason Lee  
 NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning
 
 * [Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v202/zhao23j.html)  
-Yulai Zhao, Zhuoran Yang, Zhaoran Wang, Jason D. Lee  
+**Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason D. Lee  
 International Conference on Machine Learning (ICML) 2023
 
 * [Blessing of Class Diversity in Pre-training](https://proceedings.mlr.press/v206/zhao23a.html)  
-Yulai Zhao, Jianshu Chen, Simon S. Du  
+**Yulai Zhao**, Jianshu Chen, Simon S. Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2023  
 **[Oral Presentation] [Notable Paper]**  
 
 * [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)  
-Yulai Zhao  
+**Yulai Zhao**  
 NeurIPS 2022 Workshop on Optimization for Machine Learning
 
 * [Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games](https://proceedings.mlr.press/v151/zhao22b.html)  
-Yulai Zhao, Yuandong Tian, Jason D. Lee, Simon S. Du  
+**Yulai Zhao**, Yuandong Tian, Jason D. Lee, Simon S. Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
 
 ## Teaching
