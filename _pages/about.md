@@ -50,4 +50,4 @@ International Conference on Artificial Intelligence and Statistics (AISTATS) 202
 At Princeton, I have been a teaching assistant for:
 
 * ECE 435/535: Machine Learning and Pattern Recognition (2023 Fall)
-* SML 505: Modern Statistics (2024 Spring)
+<!-- * SML 505: Modern Statistics (2024 Spring) -->
