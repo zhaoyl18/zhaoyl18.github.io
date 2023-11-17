@@ -25,7 +25,7 @@ My research interests lie in theories/experiments of modern machine learning. I 
 ## Selected Publications
 
 * [Provably Efficient CVaR RL in Low-rank MDPs](https://openreview.net/forum?id=Vg6oMb7fbh)  
-**Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason Lee  
+**Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
 NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning
 
 * [Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v202/zhao23j.html)  
