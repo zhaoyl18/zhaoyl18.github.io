@@ -24,7 +24,7 @@ My research interests lie in theories/experiments of modern machine learning. I 
 
 ## Selected Publications
 
-* [Provably Efficient CVaR RL in Low-rank MDPs](https://openreview.net/forum?id=Vg6oMb7fbh)  
+* [Provably Efficient CVaR RL in Low-rank MDPs](https://arxiv.org/abs/2311.11965)  
 **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
 NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning
 
