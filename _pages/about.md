@@ -24,24 +24,29 @@ My research interests lie in theories/experiments of modern machine learning. I 
 
 ## Selected Publications
 
-* [Provably Efficient CVaR RL in Low-rank MDPs](https://arxiv.org/abs/2311.11965)  
+* Provably Efficient CVaR RL in Low-rank MDPs  
+[[Paper]](<https://openreview.net/forum?id=Vg6oMb7fbh>) [[ArXiv]](<https://arxiv.org/abs/2311.11965>) [[Poster]](<https://yulaizhao.com/files/poster_riskRL.pdf>)  
 **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
 NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning
 
-* [Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v202/zhao23j.html)  
+* Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
+[[Paper]](<https://proceedings.mlr.press/v202/zhao23j.html>) [[ArXiv]](<https://arxiv.org/abs/2305.04819>) [[Poster]](<https://yulaizhao.com/files/poster_localpgt.pdf>)  
 **Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason D. Lee  
 International Conference on Machine Learning (ICML) 2023
 
-* [Blessing of Class Diversity in Pre-training](https://proceedings.mlr.press/v206/zhao23a.html)  
+* Blessing of Class Diversity in Pre-training  
+[[Paper]](<https://proceedings.mlr.press/v206/zhao23a.html>) [[ArXiv]](<https://arxiv.org/abs/2209.03447>) [[Poster]](<https://yulaizhao.com/files/poster_blessing.pdf>)  
 **Yulai Zhao**, Jianshu Chen, Simon S. Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2023  
 **[Oral Presentation] [Notable Paper]**  
 
-* [Optimizing the Performative Risk under Weak Convexity Assumptions](https://openreview.net/forum?id=Ut_vApkulkk)  
+* Optimizing the Performative Risk under Weak Convexity Assumptions  
+[[Paper]](<https://openreview.net/forum?id=Ut_vApkulkk>) [[ArXiv]](<https://arxiv.org/abs/2209.00771>) [[Poster]](<https://yulaizhao.com/files/poster_optml.pdf>)  
 **Yulai Zhao**  
 NeurIPS 2022 Workshop on Optimization for Machine Learning
 
-* [Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games](https://proceedings.mlr.press/v151/zhao22b.html)  
+* Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games  
+[[Paper]](<https://proceedings.mlr.press/v151/zhao22b.html>) [[ArXiv]](<https://arxiv.org/abs/2102.08903>) [[Poster]](<https://yulaizhao.com/files/poster_pgt.pdf>)  
 **Yulai Zhao**, Yuandong Tian, Jason D. Lee, Simon S. Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
 
