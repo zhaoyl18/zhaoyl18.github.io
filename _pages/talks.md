@@ -9,16 +9,16 @@ redirect_from:
 ## Research Presentations
 
 * Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
-[[Slides]](<https://yulaizhao.com/files/slides_localpgt.pdf>)
+[[Slides]](<https://yulaizhao.com/files/slides_localpgt.pdf>) [[Poster]](<https://yulaizhao.com/files/poster_localpgt.pdf>)  
 
 * Blessing of Class Diversity in Pre-training  
-[[Slides]](<https://yulaizhao.com/files/slides_blessing.pdf>)  
+[[Slides]](<https://yulaizhao.com/files/slides_blessing.pdf>) [[Poster]](<https://yulaizhao.com/files/poster_blessing.pdf>)  
 
 * Optimizing the Performative Risk under Weak Convexity Assumptions  
-[[Slides]](<https://yulaizhao.com/files/slides_optml.pdf>)  
+[[Slides]](<https://yulaizhao.com/files/slides_optml.pdf>) [[Poster]](<https://yulaizhao.com/files/poster_optml.pdf>)  
 
 * Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games  
-[[Slides]](<https://yulaizhao.com/files/slides_pgt.pdf>)  
+[[Slides]](<https://yulaizhao.com/files/slides_pgt.pdf>) [[Poster]](<https://yulaizhao.com/files/poster_pgt.pdf>)  
 
 ## Other Talks
 

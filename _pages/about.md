@@ -15,38 +15,35 @@ My research interests lie in theories/experiments of modern machine learning. I 
 ## Experiences
 
 * Ph.D. student, Electrical and Computer Engineering, Princeton University.
-<!-- Fortunately advised by Prof [S.Y. Kung](https://ece.princeton.edu/people/sun-yuan-kung) and [Jason D. Lee](https://jasondlee88.github.io/) -->
 * Visiting Student, Institute for Machine Learning, ETH Zürich.
-<!-- Hosted by Prof [Aurelien Lucchi](https://t.co/MWMK6o7qIq) -->
 * Research Assistant, Computer Science & Engineering, University of Washington.
-<!-- Hosted by Prof [Simon S. Du](https://simonshaoleidu.com/) -->
 * Bachelor, Electronic Engineering, Tsinghua University.
 
 ## Selected Publications
 
 * Provably Efficient CVaR RL in Low-rank MDPs  
-[[Paper]](<https://openreview.net/forum?id=Vg6oMb7fbh>) [[ArXiv]](<https://arxiv.org/abs/2311.11965>) [[Poster]](<https://yulaizhao.com/files/poster_riskRL.pdf>)  
+[[Paper]](<https://openreview.net/forum?id=Vg6oMb7fbh>) [[ArXiv]](<https://arxiv.org/abs/2311.11965>)  
 **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
 NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning
 
 * Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
-[[Paper]](<https://proceedings.mlr.press/v202/zhao23j.html>) [[ArXiv]](<https://arxiv.org/abs/2305.04819>) [[Poster]](<https://yulaizhao.com/files/poster_localpgt.pdf>)  
+[[Paper]](<https://proceedings.mlr.press/v202/zhao23j.html>) [[ArXiv]](<https://arxiv.org/abs/2305.04819>)  
 **Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason D. Lee  
 International Conference on Machine Learning (ICML) 2023
 
 * Blessing of Class Diversity in Pre-training  
-[[Paper]](<https://proceedings.mlr.press/v206/zhao23a.html>) [[ArXiv]](<https://arxiv.org/abs/2209.03447>) [[Poster]](<https://yulaizhao.com/files/poster_blessing.pdf>)  
+[[Paper]](<https://proceedings.mlr.press/v206/zhao23a.html>) [[ArXiv]](<https://arxiv.org/abs/2209.03447>)  
 **Yulai Zhao**, Jianshu Chen, Simon S. Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2023  
 **[Oral Presentation] [Notable Paper]**  
 
 * Optimizing the Performative Risk under Weak Convexity Assumptions  
-[[Paper]](<https://openreview.net/forum?id=Ut_vApkulkk>) [[ArXiv]](<https://arxiv.org/abs/2209.00771>) [[Poster]](<https://yulaizhao.com/files/poster_optml.pdf>)  
+[[Paper]](<https://openreview.net/forum?id=Ut_vApkulkk>) [[ArXiv]](<https://arxiv.org/abs/2209.00771>)  
 **Yulai Zhao**  
 NeurIPS 2022 Workshop on Optimization for Machine Learning
 
 * Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games  
-[[Paper]](<https://proceedings.mlr.press/v151/zhao22b.html>) [[ArXiv]](<https://arxiv.org/abs/2102.08903>) [[Poster]](<https://yulaizhao.com/files/poster_pgt.pdf>)  
+[[Paper]](<https://proceedings.mlr.press/v151/zhao22b.html>) [[ArXiv]](<https://arxiv.org/abs/2102.08903>)  
 **Yulai Zhao**, Yuandong Tian, Jason D. Lee, Simon S. Du  
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
 
