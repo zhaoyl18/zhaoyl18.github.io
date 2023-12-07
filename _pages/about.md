@@ -33,7 +33,8 @@ International Conference on Machine Learning (ICML) 2023
 
 * Blessing of Class Diversity in Pre-training  
 **Yulai Zhao**, Jianshu Chen, Simon S. Du  
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 **[Oral Presentation] [Notable Paper]**  
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023  
+**[Oral Presentation] [Notable Paper]**  
 [[paper]](<https://proceedings.mlr.press/v206/zhao23a.html>) [[arXiv]](<https://arxiv.org/abs/2209.03447>)  
 
 * Optimizing the Performative Risk under Weak Convexity Assumptions  
