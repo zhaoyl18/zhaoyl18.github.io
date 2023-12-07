@@ -21,26 +21,30 @@ My research interests lie in theories/experiments of modern machine learning. I 
 
 ## Selected Publications
 
-* Provably Efficient CVaR RL in Low-rank MDPs [[paper]](<https://openreview.net/forum?id=Vg6oMb7fbh>) [[arXiv]](<https://arxiv.org/abs/2311.11965>)  
+* Provably Efficient CVaR RL in Low-rank MDPs  
 **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
-NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning
+NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning  
+[[paper]](<https://openreview.net/forum?id=Vg6oMb7fbh>) [[arXiv]](<https://arxiv.org/abs/2311.11965>)  
 
-* Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning [[paper]](<https://proceedings.mlr.press/v202/zhao23j.html>) [[arXiv]](<https://arxiv.org/abs/2305.04819>)  
+* Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
 **Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason D. Lee  
-International Conference on Machine Learning (ICML) 2023
+International Conference on Machine Learning (ICML) 2023  
+[[paper]](<https://proceedings.mlr.press/v202/zhao23j.html>) [[arXiv]](<https://arxiv.org/abs/2305.04819>)  
 
-* Blessing of Class Diversity in Pre-training [[paper]](<https://proceedings.mlr.press/v206/zhao23a.html>) [[arXiv]](<https://arxiv.org/abs/2209.03447>)  
+* Blessing of Class Diversity in Pre-training  
 **Yulai Zhao**, Jianshu Chen, Simon S. Du  
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2023  
-**[Oral Presentation] [Notable Paper]**  
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 **[Oral Presentation] [Notable Paper]**  
+[[paper]](<https://proceedings.mlr.press/v206/zhao23a.html>) [[arXiv]](<https://arxiv.org/abs/2209.03447>)  
 
-* Optimizing the Performative Risk under Weak Convexity Assumptions [[paper]](<https://openreview.net/forum?id=Ut_vApkulkk>) [[arXiv]](<https://arxiv.org/abs/2209.00771>)  
+* Optimizing the Performative Risk under Weak Convexity Assumptions  
 **Yulai Zhao**  
-NeurIPS 2022 Workshop on Optimization for Machine Learning
+NeurIPS 2022 Workshop on Optimization for Machine Learning  
+[[paper]](<https://openreview.net/forum?id=Ut_vApkulkk>) [[arXiv]](<https://arxiv.org/abs/2209.00771>)
 
-* Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games [[paper]](<https://proceedings.mlr.press/v151/zhao22b.html>) [[arXiv]](<https://arxiv.org/abs/2102.08903>)  
+* Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games  
 **Yulai Zhao**, Yuandong Tian, Jason D. Lee, Simon S. Du  
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2022  
+[[paper]](<https://proceedings.mlr.press/v151/zhao22b.html>) [[arXiv]](<https://arxiv.org/abs/2102.08903>)  
 
 ## Teaching
 
