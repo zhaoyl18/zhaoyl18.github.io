@@ -51,6 +51,6 @@ International Conference on Artificial Intelligence and Statistics (AISTATS) 202
 
 At Princeton, I have been a teaching assistant for:
 
-* ECE 435 / ECE 535: Machine Learning and Pattern Recognition (2023 Fall)
-* COS 435 / ECE 433: [Introduction to Reinforcement Learning](<https://ben-eysenbach.github.io/intro-rl/>) (2024 Spring)
+* **2023 Fall** ECE 435/535: Machine Learning and Pattern Recognition
+* **2024 Spring** COS 435/ECE 433: [Introduction to Reinforcement Learning](<https://ben-eysenbach.github.io/intro-rl/>) 
 <!-- * SML 505: Modern Statistics (2024 Spring) -->
