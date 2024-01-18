@@ -24,7 +24,7 @@ My research interests lie in theories/experiments of modern machine learning. I 
 * Provably Efficient CVaR RL in Low-rank MDPs  
 **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
 International Conference on Learning Representations (ICLR) 2024  
-[[arXiv]](<https://arxiv.org/abs/2311.11965>)  
+[[paper]](<https://openreview.net/forum?id=9x6yrFAPnx>) [[arXiv]](<https://arxiv.org/abs/2311.11965>)  
 
 * Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
 **Yulai Zhao**, Zhuoran Yang, Zhaoran Wang, Jason D. Lee  
