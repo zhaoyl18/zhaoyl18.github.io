@@ -14,10 +14,10 @@ My research primarily explores the theories and practical applications of modern
 
 ## Experiences
 
-- **Ph.D. Student**, Electrical and Computer Engineering, Princeton University
-- **Visiting Student**, Institute for Machine Learning, ETH Zürich
-- **Research Assistant**, Computer Science & Engineering, University of Washington
-- **Bachelor's Degree**, Electronic Engineering, Tsinghua University
+- Ph.D. Student @ Electrical and Computer Engineering, Princeton University
+- Visiting Student @ Institute for Machine Learning, ETH Zürich
+- Research Assistant @ Computer Science & Engineering, University of Washington
+- Bachelor @ Electronic Engineering, Tsinghua University
 
 ## Selected Publications
 
