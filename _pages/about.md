@@ -10,7 +10,7 @@ redirect_from:
 I am Yulai, a second-year Ph.D. student at Princeton working on machine learning.  
 <!-- For more details about my academic background, please visit my [[departmental page]](https://ece.princeton.edu/people/yulai-zhao).   -->
 
-My research primarily explores the theories and practical applications of modern machine learning. I am particularly fascinated by the vast possibilities that data-driven approaches can unlock in various fields.
+My research primarily explores the theories and practical applications of modern machine learning. I am particularly interested in the vast possibilities that data-driven approaches can unlock in scientific fields.
 
 ## Experiences
 
@@ -24,7 +24,7 @@ My research primarily explores the theories and practical applications of modern
 \* denotes equal contribution or alphabetical ordering.
 
 - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
-  Masatoshi Uehara*, **Yulai Zhao***, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine
+  Masatoshi Uehara*, **Yulai Zhao***, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
   [[arXiv]](https://arxiv.org/abs/2402.15194)  
 
 - **Provably Efficient CVaR RL in Low-rank MDPs**  
