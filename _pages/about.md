@@ -24,11 +24,11 @@ My research primarily explores the theories and practical applications of modern
 \* denotes equal contribution or alphabetical ordering.
 
 - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
-  Masatoshi Uehara*, **Yulai Zhao***, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
+  Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
   [[arXiv]](https://arxiv.org/abs/2402.15194)  
 
 - **Provably Efficient CVaR RL in Low-rank MDPs**  
-  **Yulai Zhao***, Wenhao Zhan*, Xiaoyan Hu*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
+  **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
   *International Conference on Learning Representations (ICLR) 2024*  
   [[paper]](https://openreview.net/forum?id=9x6yrFAPnx) [[arXiv]](https://arxiv.org/abs/2311.11965)  
 
