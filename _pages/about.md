@@ -23,6 +23,10 @@ My research primarily explores the theories and practical applications of modern
 
 \* denotes equal contribution or alphabetical ordering.
 
+- **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
+  Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
+  [[arXiv]](https://arxiv.org/abs/2402.16359)
+
 - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
   [[arXiv]](https://arxiv.org/abs/2402.15194)  
