@@ -12,14 +12,14 @@ I am Yulai, a second-year Ph.D. student at Princeton working on machine learning
 
 My research primarily explores the theories and practical applications of modern machine learning. I am particularly interested in the vast possibilities that data-driven approaches can unlock in scientific fields.
 
-## Experiences
+### Experiences
 
 - Ph.D. Student @ Electrical and Computer Engineering, Princeton University
 - Visiting Student @ Institute for Machine Learning, ETH Zürich
 - Research Assistant @ Computer Science & Engineering, University of Washington
 - Bachelor @ Electronic Engineering, Tsinghua University
 
-## Selected Publications
+### Selected Publications
 
 \* denotes equal contribution or alphabetical ordering.
 
@@ -57,7 +57,7 @@ My research primarily explores the theories and practical applications of modern
   *International Conference on Artificial Intelligence and Statistics (AISTATS) 2022*  
   [[paper]](https://proceedings.mlr.press/v151/zhao22b.html) [[arXiv]](https://arxiv.org/abs/2102.08903)  
 
-## Teaching
+### Teaching
 
 During my time at Princeton, I have contributed as a teaching assistant for the following courses:
 
