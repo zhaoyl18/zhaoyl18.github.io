@@ -6,7 +6,7 @@ redirect_from:
   - /talks.html
 ---
 
-## Research Presentations
+### Research Presentations
 
 * Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
 [[slides]](<https://yulaizhao.com/files/slides_localpgt.pdf>) [[poster]](<https://yulaizhao.com/files/poster_localpgt.pdf>)
@@ -20,7 +20,7 @@ redirect_from:
 * Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games  
 [[slides]](<https://yulaizhao.com/files/slides_pgt.pdf>) [[poster]](<https://yulaizhao.com/files/poster_pgt.pdf>)
 
-## Other Talks
+### Other Talks
 
 * Training Diffusion Models with Reinforcement Learning  
 [[slides]](<https://yulaizhao.com/files/slides_training_diffusion_RL.pdf>)
