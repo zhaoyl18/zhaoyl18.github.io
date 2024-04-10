@@ -59,7 +59,7 @@ My research primarily explores the theories and practical applications of modern
 
 ## Teaching
 
-During my time at Princeton, I have contributed as a teaching assistant for the following courses:
+At Princeton, I have contributed to the following courses as a teaching assistant:
 
 - **Fall 2023**: ECE 435 / ECE 535 - Machine Learning and Pattern Recognition
 - **Spring 2024**: COS 435 / ECE 433 - Introduction to Reinforcement Learning [[Course Website]](https://ben-eysenbach.github.io/intro-rl/)  
