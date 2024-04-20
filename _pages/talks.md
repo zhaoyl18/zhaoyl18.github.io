@@ -8,6 +8,9 @@ redirect_from:
 
 ## Research Presentations
 
+* Provably Efficient CVaR RL in Low-rank MDPs  
+[[poster]](<https://yulaizhao.com/files/poster_risk.pdf>)
+
 * Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
 [[slides]](<https://yulaizhao.com/files/slides_localpgt.pdf>) [[poster]](<https://yulaizhao.com/files/poster_localpgt.pdf>)
 
@@ -21,6 +24,9 @@ redirect_from:
 [[slides]](<https://yulaizhao.com/files/slides_pgt.pdf>) [[poster]](<https://yulaizhao.com/files/poster_pgt.pdf>)
 
 ## Other Talks
+
+* Reinforcement Learning From Human Feedback  
+[[slides]](<https://yulaizhao.com/files/slides_RLHF.pdf>)
 
 * Training Diffusion Models with Reinforcement Learning  
 [[slides]](<https://yulaizhao.com/files/slides_training_diffusion_RL.pdf>)
