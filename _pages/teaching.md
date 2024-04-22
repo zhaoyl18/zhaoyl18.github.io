@@ -10,6 +10,6 @@ redirect_from:
 
 At Princeton, I help teach several ML/RL courses.
 
-* **Fall 2023**: ECE 435 / ECE 535 - Machine Learning and Pattern Recognition
-* **Spring 2024**: COS 435 / ECE 433 - Introduction to Reinforcement Learning [[Course Website]](https://ben-eysenbach.github.io/intro-rl/)  
+* 24 Spring: (COS 435/ECE 433) Introduction to Reinforcement Learning [[Course Website]](https://ben-eysenbach.github.io/intro-rl/)  
+* 23 Fall: (ECE 435/ECE 535) Machine Learning and Pattern Recognition
 <!-- * SML 505: Modern Statistics (2024 Spring) -->
