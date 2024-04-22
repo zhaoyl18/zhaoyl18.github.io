@@ -56,11 +56,4 @@ My research primarily explores the theories and practical applications of modern
   **Yulai Zhao**, Yuandong Tian, Jason D. Lee, Simon S. Du  
   *International Conference on Artificial Intelligence and Statistics (AISTATS) 2022*  
   [[paper]](https://proceedings.mlr.press/v151/zhao22b.html) [[arXiv]](https://arxiv.org/abs/2102.08903)  
-
-## Teaching
-
-At Princeton, I have contributed to the following courses as a teaching assistant:
-
-- **Fall 2023**: ECE 435 / ECE 535 - Machine Learning and Pattern Recognition
-- **Spring 2024**: COS 435 / ECE 433 - Introduction to Reinforcement Learning [[Course Website]](https://ben-eysenbach.github.io/intro-rl/)  
-<!-- * SML 505: Modern Statistics (2024 Spring) -->
+  
