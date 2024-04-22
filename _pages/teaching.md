@@ -8,7 +8,7 @@ redirect_from:
 
 ## Courses
 
-At Princeton University, I have served as a Teaching Assistant for courses in machine learning and reinforcement learning.
+At Princeton University, I have served as a Teaching Assistant for ML/RL courses.
 
 - **2024 Spring**
   - COS 435/ECE 433: Introduction to Reinforcement Learning [[Course Website]](https://ben-eysenbach.github.io/intro-rl/)  
