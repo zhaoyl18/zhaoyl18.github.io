@@ -10,7 +10,7 @@ redirect_from:
 I am Yulai, a second-year Ph.D. student at Princeton working on machine learning.  
 <!-- For more details about my academic background, please visit my [[departmental page]](https://ece.princeton.edu/people/yulai-zhao).   -->
 
-My research primarily explores the theories and practical applications of modern machine learning. I am particularly interested in the vast possibilities that data-driven approaches can unlock in scientific fields.
+My research primarily explores the theories and empirical applications of reinforcement learning. I am particularly interested in the vast possibilities that data-driven learning paradigm can unlock in scientific studies.
 
 ## Experiences
 
