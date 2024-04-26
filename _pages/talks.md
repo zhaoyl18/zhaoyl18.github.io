@@ -25,6 +25,9 @@ redirect_from:
 
 ## Other Talks
 
+* Can Learned Models Replace Hash Functions?  
+[[slides]](<https://yulaizhao.com/files/slides_LMHashing.pdf>)
+
 * Reinforcement Learning From Human Feedback  
 [[slides]](<https://yulaizhao.com/files/slides_RLHF.pdf>)
 
