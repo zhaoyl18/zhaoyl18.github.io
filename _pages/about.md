@@ -23,14 +23,14 @@ My research primarily explores the theories and empirical applications of reinfo
 
 \* denotes equal contribution or alphabetical ordering.
 
-- **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
-  Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
-  [[arXiv]](https://arxiv.org/abs/2402.15194)  
-
 - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2024*  
   [[arXiv]](https://arxiv.org/abs/2402.16359)
+
+- **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
+  Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
+  [[arXiv]](https://arxiv.org/abs/2402.15194)  
 
 - **Provably Efficient CVaR RL in Low-rank MDPs**  
   **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
