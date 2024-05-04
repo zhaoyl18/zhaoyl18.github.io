@@ -25,6 +25,9 @@ redirect_from:
 
 ## Other Talks
 
+* Enhancing Network Pruning Method Evaluation and Integration  
+[[poster]](<https://yulaizhao.com/files/poster_COS598D_final.pdf>) [[report]](<https://yulaizhao.com/files/report_COS598D_final.pdf>)
+
 * Can Learned Models Replace Hash Functions?  
 [[slides]](<https://yulaizhao.com/files/slides_LMHashing.pdf>)
 
