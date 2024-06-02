@@ -14,14 +14,19 @@ My research primarily explores the theories and empirical applications of reinfo
 
 ## Experiences
 
+- Research Intern @ Research & Early Developement, Genentech
 - Ph.D. Student @ Electrical and Computer Engineering, Princeton University
 - Visiting Student @ Institute for Machine Learning, ETH Zürich
 - Research Assistant @ Computer Science & Engineering, University of Washington
 - Bachelor @ Electronic Engineering, Tsinghua University
 
-## Selected Publications
+## Publications
 
 \* denotes equal contribution or alphabetical ordering.
+
+- **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
+  Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gökcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
+  [[arXiv]](https://arxiv.org/abs/2405.19673)  
 
 - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
