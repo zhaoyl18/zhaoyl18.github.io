@@ -14,7 +14,7 @@ My research primarily explores the theories and empirical applications of reinfo
 
 ## Experiences
 
-- Research Intern @ Research & Early Developement, Genentech
+- Research Intern @ Research \& Early Development, Genentech
 - Ph.D. Student @ Electrical and Computer Engineering, Princeton University
 - Visiting Student @ Institute for Machine Learning, ETH Zürich
 - Research Assistant @ Computer Science & Engineering, University of Washington
