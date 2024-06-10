@@ -31,7 +31,7 @@ My research primarily explores the theories and empirical applications of reinfo
 - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2024*  
-  [[arXiv]](https://arxiv.org/abs/2402.16359)
+  [[paper]](https://openreview.net/forum?id=dtVlc9ybTm) [[arXiv]](https://arxiv.org/abs/2402.16359)
 
 - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
