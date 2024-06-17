@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Yulai, a second-year Ph.D. Candidate at Princeton working on machine learning.  
+I am Yulai, a second-year Ph.D. candidate at Princeton working on machine learning.  
 <!-- For more details about my academic background, please visit my [[departmental page]](https://ece.princeton.edu/people/yulai-zhao).   -->
 
 My research primarily explores the theories and empirical applications of reinforcement learning. I am particularly interested in the vast possibilities that data-driven learning paradigm can unlock in scientific studies.
 
 ## Experiences
 
-- Research Intern @ Research & Early Development, Genentech
+- Research Intern @ BRAID (Biology Research | AI Development), Research & Early Development, Genentech
 - Ph.D. Student @ Electrical and Computer Engineering, Princeton University
 - Visiting Student @ Institute for Machine Learning, ETH Zürich
 - Research Assistant @ Computer Science & Engineering, University of Washington
@@ -23,6 +23,9 @@ My research primarily explores the theories and empirical applications of reinfo
 ## Publications
 
 \* denotes equal contribution or alphabetical ordering.
+
+- **Adding Conditional Control to Diffusion Models with Reinforcement Learning**  
+  **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali
 
 - **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gökcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
