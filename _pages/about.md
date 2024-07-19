@@ -24,6 +24,10 @@ My research primarily explores the theories and empirical applications of reinfo
 
 \* denotes equal contribution or alphabetical ordering.
 
+- **Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**  
+  Masatoshi Uehara\*, **Yulai Zhao**\*, Tommaso Biancalani, Sergey Levine  
+  [[arXiv]](https://arxiv.org/abs/2407.13734) [[GitHub repo]](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)
+
 - **Adding Conditional Control to Diffusion Models with Reinforcement Learning**  
   **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali  
   [[arXiv]](https://arxiv.org/abs/2406.12120)
