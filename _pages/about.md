@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Yulai, a second-year Ph.D. candidate at Princeton working on machine learning.  
+I am Yulai, a 3rd-year Ph.D. candidate at Princeton working on machine learning.  
 <!-- For more details about my academic background, please visit my [[departmental page]](https://ece.princeton.edu/people/yulai-zhao).   -->
 
-My research primarily explores the theories and empirical applications of reinforcement learning. I am particularly interested in the vast possibilities that data-driven learning paradigm can unlock in scientific studies.
+My research primarily explores modern reinforcement learning and diffusion models both theoretically and experimentally. I am particularly interested in solving challenging scientific problems through data-driven approaches.
 
 ## Experiences
 
@@ -26,7 +26,7 @@ My research primarily explores the theories and empirical applications of reinfo
 
 - **Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Tommaso Biancalani, Sergey Levine  
-  [[arXiv]](https://arxiv.org/abs/2407.13734) [[GitHub repo]](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)
+  [[arXiv]](https://arxiv.org/abs/2407.13734) [[GitHub]](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)
 
 - **Adding Conditional Control to Diffusion Models with Reinforcement Learning**  
   **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali  
@@ -39,7 +39,7 @@ My research primarily explores the theories and empirical applications of reinfo
 - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2024*  
-  [[paper]](https://openreview.net/forum?id=dtVlc9ybTm) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub repo]](https://github.com/zhaoyl18/SEIKO)
+  [[paper]](https://openreview.net/forum?id=dtVlc9ybTm) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub]](https://github.com/zhaoyl18/SEIKO)
 
 - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
