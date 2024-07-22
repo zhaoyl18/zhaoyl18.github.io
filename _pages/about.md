@@ -39,7 +39,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2024*  
-  [[paper]](https://openreview.net/forum?id=dtVlc9ybTm) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub]](https://github.com/zhaoyl18/SEIKO)
+  [[paper]](https://proceedings.mlr.press/v235/uehara24a.html) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub]](https://github.com/zhaoyl18/SEIKO)
 
 - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
