@@ -26,7 +26,7 @@ redirect_from:
 * Provably Efficient Policy Optimization for Two-Player Zero-Sum Markov Games  
 [[slides]](<https://yulaizhao.com/files/slides_pgt.pdf>) [[poster]](<https://yulaizhao.com/files/poster_pgt.pdf>)
 
-## Other Works
+## Other Presentations
 
 * Enhancing Network Pruning Method Evaluation and Integration  
 [[report]](<https://yulaizhao.com/files/report_COS598D_final.pdf>) [[poster]](<https://yulaizhao.com/files/poster_COS598D_final.pdf>)
