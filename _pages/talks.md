@@ -9,7 +9,7 @@ redirect_from:
 ## Research Presentations
 
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review  
-[[slides]](<https://yulaizhao.com/files/slides_RL-finetuning.pdf>)
+[[slides]](<https://yulaizhao.com/files/slides_RL-finetuning.pdf>) [[video]](https://event.baai.ac.cn/activities/821)
 
 * Adding Conditional Control to Diffusion Models with Reinforcement Learning  
 [[slides]](<https://yulaizhao.com/files/slides_adding-control.pdf>) [[poster]](<https://yulaizhao.com/files/poster_adding-control.pdf>)
