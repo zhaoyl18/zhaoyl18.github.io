@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yulai, an incoming 3rd-year Ph.D. candidate at Princeton working on machine learning.  
+I am Yulai, a 3rd-year Ph.D. candidate at Princeton working on machine learning.  
 <!-- For more details about my academic background, please visit my [[departmental page]](https://ece.princeton.edu/people/yulai-zhao).   -->
 
 My research primarily explores modern reinforcement learning and diffusion models both theoretically and experimentally. I am particularly interested in solving challenging scientific problems through data-driven approaches.
