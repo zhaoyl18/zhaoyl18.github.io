@@ -36,7 +36,7 @@ My research primarily explores modern reinforcement learning and diffusion model
   **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali  
   [[arXiv]](https://arxiv.org/abs/2406.12120)
 
-- **Conservative Fine-Tuning of Diffusion Models from Offline Data**  
+- **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gökcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
   *Conference on Neural Information Processing Systems (NeurIPS) 2024*  
   [[arXiv]](https://arxiv.org/abs/2405.19673)  
