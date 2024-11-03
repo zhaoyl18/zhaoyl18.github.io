@@ -25,7 +25,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 \* denotes equal contribution or alphabetical ordering.
 
 - **Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**  
-  Xiner Li, Yulai Zhao, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Aviv Regev, Sergey Levine, Masatoshi Uehara  
+  Xiner Li, Yulai Zhao, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Shuiwang Ji, Aviv Regev, Sergey Levine, Masatoshi Uehara  
   [[arXiv]](https://arxiv.org/abs/2408.08252)
 
 - **Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**  
