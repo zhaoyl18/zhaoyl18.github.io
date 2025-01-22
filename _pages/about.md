@@ -24,7 +24,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 
 \* denotes equal contribution or alphabetical ordering.
 
-- **Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**  
+- **Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review**  
   Masatoshi Uehara, **Yulai Zhao**, Chenyu Wang, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani  
   [[arXiv]](https://arxiv.org/abs/2501.09685)
 
@@ -38,6 +38,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 
 - **Adding Conditional Control to Diffusion Models with Reinforcement Learning**  
   **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali  
+  *International Conference on Learning Representations (ICLR) 2025*  
   [[arXiv]](https://arxiv.org/abs/2406.12120)
 
 - **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
