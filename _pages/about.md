@@ -37,7 +37,7 @@ My research primarily explores modern reinforcement learning and diffusion model
   [[arXiv]](https://arxiv.org/abs/2407.13734) [[GitHub]](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)
 
 - **Adding Conditional Control to Diffusion Models with Reinforcement Learning**  
-  **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali  
+  **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Sunyuan Kung, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali  
   *International Conference on Learning Representations (ICLR) 2025*  
   [[arXiv]](https://arxiv.org/abs/2406.12120)
 
