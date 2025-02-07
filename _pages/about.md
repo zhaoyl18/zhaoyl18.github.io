@@ -39,7 +39,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 - **Adding Conditional Control to Diffusion Models with Reinforcement Learning**  
   **Yulai Zhao**\*, Masatoshi Uehara\*, Gabriele Scalia, Sunyuan Kung, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali  
   *International Conference on Learning Representations (ICLR) 2025*  
-  [[paper]](https://openreview.net/forum?id=svp1EBA6hA) [[arXiv]](https://arxiv.org/abs/2406.12120)
+  [[paper]](https://openreview.net/forum?id=svp1EBA6hA) [[arXiv]](https://arxiv.org/abs/2406.12120) [[GitHub]](https://github.com/zhaoyl18/CTRL)
 
 - **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gökcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
