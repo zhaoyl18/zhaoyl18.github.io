@@ -84,11 +84,11 @@ author:
   avatar           : "avatar.png"
   bio              : "Reinforcement Learning, ML for Science"
   location         : "Princeton, NJ"
-  employer         : "Princeton University"
+  # employer         : "Princeton University"
   email            : "yulaiz@princeton.edu"
   linkedin         :  yulaizhao
   googlescholar    :  https://scholar.google.com/citations?user=r-mWYj0AAAAJ
-  openreview       : https://openreview.net/profile?id=~Yulai_Zhao1
+  # openreview       : https://openreview.net/profile?id=~Yulai_Zhao1
   bitbucket        :
   orcid            : https://orcid.org/0000-0002-6930-3590
   codepen          :
