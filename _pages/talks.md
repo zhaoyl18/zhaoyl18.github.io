@@ -46,8 +46,8 @@ redirect_from:
 * Risk Sensitive Reinforcement Learning with Low-rank MDPs  
 [[slides]](<https://yulaizhao.com/files/slides_riskRL.pdf>)  
 
-* Eigenface++: Face Recognition with Deep PCA  
-[[report]](<https://yulaizhao.com/files/report_ECE571_final.pdf>) [[slides]](<https://yulaizhao.com/files/slides_ECE571_final.pdf>)
+<!-- * Eigenface++: Face Recognition with Deep PCA  
+[[report]](<https://yulaizhao.com/files/report_ECE571_final.pdf>) [[slides]](<https://yulaizhao.com/files/slides_ECE571_final.pdf>) -->
 
 * What Can Transformers Learn In-Context?  
 [[slides]](<https://yulaizhao.com/files/slides_in_context_learning.pdf>)
