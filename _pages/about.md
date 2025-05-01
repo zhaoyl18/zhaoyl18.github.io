@@ -24,8 +24,9 @@ My research primarily explores modern reinforcement learning and diffusion model
 
 \* denotes equal contribution or alphabetical ordering.
 
-- **Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design**  
+- **Reward-Guided Refinement in Diffusion Models With Applications to Protein and DNA Design**  
   Masatoshi Uehara, Xingyu Su, **Yulai Zhao**, Xiner Li, Aviv Regev, Shuiwang Ji, Sergey Levine, Tommaso Biancalani  
+  *International Conference on Machine Learning (ICML) 2025*  
   [[arXiv]](https://arxiv.org/abs/2502.14944)
 
 
