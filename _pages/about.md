@@ -24,19 +24,22 @@ My research primarily explores modern reinforcement learning and diffusion model
 
 \* denotes equal contribution or alphabetical ordering.
 
+- **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design**  
+  Xingyu Su, Xiner Li, Masatoshi Uehara, Sunwoo Kim, **Yulai Zhao**, Gabriele Scalia, Ehsan Hajiramezanali, Tommaso Biancalani, Degui Zhi, Shuiwang Ji  
+  [[arXiv]](https://arxiv.org/abs/2507.00445)
+
 - **Reward-Guided Refinement in Diffusion Models With Applications to Protein and DNA Design**  
   Masatoshi Uehara, Xingyu Su, **Yulai Zhao**, Xiner Li, Aviv Regev, Shuiwang Ji, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2025*  
-  [[arXiv]](https://arxiv.org/abs/2502.14944)
-
+  [[paper]](https://openreview.net/forum?id=9qzpNSTUYp) [[arXiv]](https://arxiv.org/abs/2502.14944) [[GitHub]](https://github.com/masa-ue/ProDifEvo-Refinement)
 
 - **Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review**  
   Masatoshi Uehara, **Yulai Zhao**, Chenyu Wang, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani  
-  [[arXiv]](https://arxiv.org/abs/2501.09685)
+  [[arXiv]](https://arxiv.org/abs/2501.09685) [[GitHub]](https://github.com/masa-ue/AlignInversePro)
 
 - **Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**  
   Xiner Li, **Yulai Zhao**, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Shuiwang Ji, Aviv Regev, Sergey Levine, Masatoshi Uehara  
-  [[arXiv]](https://arxiv.org/abs/2408.08252)
+  [[arXiv]](https://arxiv.org/abs/2408.08252) [[GitHub]](https://github.com/masa-ue/SVDD)
 
 - **Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Tommaso Biancalani, Sergey Levine  
@@ -50,7 +53,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 - **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gökcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
   *Conference on Neural Information Processing Systems (NeurIPS) 2024*  
-  [[arXiv]](https://arxiv.org/abs/2405.19673)  
+  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e68274fc4f158dbcbd4dddc672f7ee9c-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2405.19673)  
 
 - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
