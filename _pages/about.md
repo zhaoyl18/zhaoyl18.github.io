@@ -14,6 +14,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 
 ## Experiences
 
+- Research Intern @ Language Intelligence Research Group, Tencent AI Lab
 - Research Intern @ BRAID (Biology Research \| AI Development), Research & Early Development, Genentech  
 - Ph.D. Student @ Electrical and Computer Engineering, Princeton University
 - Visiting Student @ Institute for Machine Learning, ETH Zürich
@@ -23,6 +24,10 @@ My research primarily explores modern reinforcement learning and diffusion model
 ## Publications
 
 \* denotes equal contribution or alphabetical ordering.
+
+- **One Token to Fool LLM-as-a-Judge**  
+  **Yulai Zhao**\*, Haolin Liu\*, Dian Yu, S.Y. Kung, Haitao Mi, Dong Yu  
+   [arXiv] [[Model]](https://huggingface.co/sarosavo/Master-RM) [[Dataset]](https://huggingface.co/datasets/sarosavo/Master-RM)
 
 - **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design**  
   Xingyu Su, Xiner Li, Masatoshi Uehara, Sunwoo Kim, **Yulai Zhao**, Gabriele Scalia, Ehsan Hajiramezanali, Tommaso Biancalani, Degui Zhi, Shuiwang Ji  
