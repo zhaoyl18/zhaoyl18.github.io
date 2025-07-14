@@ -27,7 +27,7 @@ My research primarily explores modern reinforcement learning and diffusion model
 
 - **One Token to Fool LLM-as-a-Judge**  
   **Yulai Zhao**\*, Haolin Liu\*, Dian Yu, S.Y. Kung, Haitao Mi, Dong Yu  
-   [arXiv] [[Model]](https://huggingface.co/sarosavo/Master-RM) [[Dataset]](https://huggingface.co/datasets/sarosavo/Master-RM)
+   [[arXiv]](http://arxiv.org/abs/2507.08794) [[Model]](https://huggingface.co/sarosavo/Master-RM) [[Dataset]](https://huggingface.co/datasets/sarosavo/Master-RM)
 
 - **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design**  
   Xingyu Su, Xiner Li, Masatoshi Uehara, Sunwoo Kim, **Yulai Zhao**, Gabriele Scalia, Ehsan Hajiramezanali, Tommaso Biancalani, Degui Zhi, Shuiwang Ji  
