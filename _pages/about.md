@@ -56,7 +56,7 @@ My research focuses on modern reinforcement learning and generative AI systems (
   [[paper]](https://openreview.net/forum?id=svp1EBA6hA) [[arXiv]](https://arxiv.org/abs/2406.12120) [[GitHub]](https://github.com/zhaoyl18/CTRL)
 
 - **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
-  Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gökcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
+  Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gokcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
   *Conference on Neural Information Processing Systems (NeurIPS) 2024*  
   [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e68274fc4f158dbcbd4dddc672f7ee9c-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2405.19673)  
 
