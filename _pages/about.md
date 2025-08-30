@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yulai, an incoming 4th-year Ph.D. student at Princeton University working on machine learning.  
+I am Yulai, a 4th-year Ph.D. student at Princeton University working on machine learning.  
 <!-- For more details about my academic background, please visit my [[departmental page]](https://ece.princeton.edu/people/yulai-zhao).   -->
 
 My research focuses on modern reinforcement learning and generative AI systems (e.g., diffusion models and LLMs), from both theoretical and empirical perspectives. I am particularly interested in solving challenging scientific problems through data-driven approaches.
