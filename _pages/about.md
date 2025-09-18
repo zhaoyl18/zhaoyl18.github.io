@@ -42,8 +42,9 @@ My research focuses on modern reinforcement learning and generative AI systems (
   Masatoshi Uehara, **Yulai Zhao**, Chenyu Wang, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani  
   [[arXiv]](https://arxiv.org/abs/2501.09685) [[GitHub]](https://github.com/masa-ue/AlignInversePro)
 
-- **Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**  
-  Xiner Li, **Yulai Zhao**, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Shuiwang Ji, Aviv Regev, Sergey Levine, Masatoshi Uehara  
+- **Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-based Decoding**  
+  Xiner Li, **Yulai Zhao**, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Shuiwang Ji, Aviv Regev, Sergey Levine, Masatoshi Uehara
+  *Conference on Neural Information Processing Systems (NeurIPS) 2025* 
   [[arXiv]](https://arxiv.org/abs/2408.08252) [[GitHub]](https://github.com/masa-ue/SVDD)
 
 - **Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**  
