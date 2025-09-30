@@ -26,7 +26,7 @@ My research focuses on modern reinforcement learning and generative AI systems (
 \* denotes equal contribution or alphabetical ordering.
 
 - **One Token to Fool LLM-as-a-Judge**  
-  **Yulai Zhao**\*, Haolin Liu\*, Dian Yu, S.Y. Kung, Haitao Mi, Dong Yu  
+  **Yulai Zhao**\*, Haolin Liu\*, Dian Yu, Sunyuan Kung, Meijia Chen, Haitao Mi, Dong Yu  
    [[arXiv]](http://arxiv.org/abs/2507.08794) [[Model]](https://huggingface.co/sarosavo/Master-RM) [[Dataset]](https://huggingface.co/datasets/sarosavo/Master-RM)
 
 - **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design**  
