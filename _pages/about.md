@@ -27,7 +27,8 @@ My research focuses on modern reinforcement learning and generative AI systems (
 
 - **One Token to Fool LLM-as-a-Judge**  
   **Yulai Zhao**\*, Haolin Liu\*, Dian Yu, Sunyuan Kung, Meijia Chen, Haitao Mi, Dong Yu  
-   [[arXiv]](http://arxiv.org/abs/2507.08794) [[Model]](https://huggingface.co/sarosavo/Master-RM) [[Dataset]](https://huggingface.co/datasets/sarosavo/Master-RM)
+  *NeurIPS 2025 Workshop on Mathematical Reasoning and AI*  
+  [[arXiv]](http://arxiv.org/abs/2507.08794) [[Model]](https://huggingface.co/sarosavo/Master-RM) [[Dataset]](https://huggingface.co/datasets/sarosavo/Master-RM)
 
 - **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design**  
   Xingyu Su, Xiner Li, Masatoshi Uehara, Sunwoo Kim, **Yulai Zhao**, Gabriele Scalia, Ehsan Hajiramezanali, Tommaso Biancalani, Degui Zhi, Shuiwang Ji  
