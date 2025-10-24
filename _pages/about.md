@@ -26,7 +26,7 @@ My research focuses on modern reinforcement learning and generative AI systems (
 \* denotes equal contribution or alphabetical ordering.
 
 - **Every Question Has Its Own Value: Reinforcement Learning with Explicit Human Values**  
-  Dian Yu, Yulai Zhao, Kishan Panaganti, Linfeng Song, Haitao Mi, Dong Yu  
+  Dian Yu, **Yulai Zhao**, Kishan Panaganti, Linfeng Song, Haitao Mi, Dong Yu  
   [[arXiv]](https://arxiv.org/abs/2510.20187) [[Dataset]](https://huggingface.co/datasets/sarosavo/RLEV)
 
 - **One Token to Fool LLM-as-a-Judge**  
