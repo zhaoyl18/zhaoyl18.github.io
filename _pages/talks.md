@@ -18,7 +18,7 @@ redirect_from:
 [[slides]](<https://yulaizhao.com/files/slides_adding-control.pdf>) [[poster]](<https://yulaizhao.com/files/poster_adding-control.pdf>)
 
 * Provably Efficient CVaR RL in Low-rank MDPs  
-[[poster]](<https://yulaizhao.com/files/poster_risk.pdf>)
+[[slides]](<https://yulaizhao.com/files/slides_risk.pdf>) [[poster]](<https://yulaizhao.com/files/poster_risk.pdf>)
 
 * Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning  
 [[slides]](<https://yulaizhao.com/files/slides_localpgt.pdf>) [[poster]](<https://yulaizhao.com/files/poster_localpgt.pdf>)
