@@ -9,9 +9,9 @@ redirect_from:
 <!-- {% include iframe.html src="https://mj-yl.travelmap.net" width="100%" height="550" frameborder="0" allowfullscreen=true %} -->
 
 <section>
-  <h2>Visitor Map (2025)</h2>
+  <h2>Visitor (Last 28 days)</h2>
   <div style="width: 100%; max-width: 1200px; margin: 0 auto;">
-    <div style="width: 100%; height: 550px;">
+    <div style="width: 100%; height: 600px;">
       <iframe
         src="https://lookerstudio.google.com/embed/reporting/ba09de93-aff9-47b3-ac38-d38394192c9f/page/c8NHF"
         style="width: 100%; height: 100%; border: 0;"
@@ -24,8 +24,8 @@ redirect_from:
 </section>
 
 <section style="margin-top: 40px; margin-bottom: 40px;">
-  <h2>Today</h2>
+  <h2>Pageview (Today)</h2>
   <div style="text-align: center;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=800&t=t&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=750&t=t&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
   </div>
 </section>
