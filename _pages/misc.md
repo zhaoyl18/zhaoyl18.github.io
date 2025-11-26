@@ -11,7 +11,7 @@ redirect_from:
 <section>
   <h2>Visitor Map (2025)</h2>
   <div style="width: 100%; max-width: 1200px; margin: 0 auto;">
-    <div style="width: 100%; height: 1000px;">
+    <div style="width: 100%; height: 900px;">
       <iframe
         src="https://lookerstudio.google.com/embed/reporting/ba09de93-aff9-47b3-ac38-d38394192c9f/page/c8NHF"
         style="width: 100%; height: 100%; border: 0;"
