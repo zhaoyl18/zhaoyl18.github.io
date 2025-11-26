@@ -9,7 +9,7 @@ redirect_from:
 ## Research Presentations
 
 * One Token to Fool LLM-as-a-Judge  
-[[slides]](<https://yulaizhao.com/files/slides_master-RM.pdf>)
+[[slides]](<https://yulaizhao.com/files/slides_master-RM.pdf>) [[poster]](<https://yulaizhao.com/files/poster_one-token.pdf>)
 
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review  
 [[slides]](<https://yulaizhao.com/files/slides_RL-finetuning.pdf>) [[video]](https://event.baai.ac.cn/activities/821) (*in Chinese*)
