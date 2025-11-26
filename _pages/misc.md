@@ -23,4 +23,9 @@ redirect_from:
   </div>
 </section>
 
-
+<section style="margin-top: 40px; margin-bottom: 40px;">
+  <h2>Today</h2>
+  <div style="text-align: center;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=500&t=t&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+  </div>
+</section>
