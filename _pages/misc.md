@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- {% include iframe.html src="https://mj-yl.travelmap.net" width="100%" height="550" frameborder="0" allowfullscreen=true %} -->
 
-<section>
+<!-- <section>
   <h2>Visitor (Last 28 days)</h2>
   <div style="width: 100%; max-width: 1200px; margin: 0 auto;">
     <div style="width: 100%; height: 600px;">
@@ -21,11 +21,11 @@ redirect_from:
       </iframe>
     </div>
   </div>
-</section>
+</section> -->
 
 <section style="margin-top: 40px; margin-bottom: 40px;">
-  <h2>Pageview (Today)</h2>
+  <!-- <h2>Pageview (Today)</h2> -->
   <div style="text-align: center;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=740&t=t&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=500&t=t&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
   </div>
 </section>
