@@ -31,10 +31,11 @@ redirect_from:
 <!-- </section> -->
 
 <style>
+  /* 手机端自动缩放 ClustrMaps 到 90% */
   @media (max-width: 600px) {
     .clustrmaps-wrapper {
-      transform: scale(0.9);        /* 缩小到 90% */
-      transform-origin: top center; /* 从中心缩放，不偏移 */
+      transform: scale(0.9);
+      transform-origin: top center;
     }
   }
 </style>
@@ -45,7 +46,7 @@ redirect_from:
       <script
         type='text/javascript'
         id='clustrmaps'
-        src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'>
+        src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=t&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'>
       </script>
     </div>
   </div>
