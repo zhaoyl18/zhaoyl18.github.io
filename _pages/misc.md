@@ -28,15 +28,25 @@ redirect_from:
   <!-- <div style="text-align: center;">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=700&t=t&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
   </div>
-</section> --> -->
+<!-- </section> -->
 
-<section style="margin-top: 40px; margin-bottom: 40px;">
-  <div style="text-align: center; width: 100%; max-width: 100%; overflow-x: auto;">
-    <script type='text/javascript'
-      id='clustrmaps'
-      src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM'>
-    </script>
+<style>
+  @media (max-width: 600px) {
+    .clustrmaps-wrapper {
+      transform: scale(0.9);        /* 缩小到 90% */
+      transform-origin: top center; /* 从中心缩放，不偏移 */
+    }
+  }
+</style>
+
+<section style="margin-top: 40px; margin-bottom: 40px; display: flex; justify-content: center;">
+  <div style="width: 100%; max-width: 700px; display: flex; justify-content: center; overflow: hidden;">
+    <div class="clustrmaps-wrapper" style="width: 100%; text-align: center;">
+      <script
+        type='text/javascript'
+        id='clustrmaps'
+        src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=baAPZq63tUFM-xP94R5AORwimv_Tq29xsiwSiQplvwM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'>
+      </script>
+    </div>
   </div>
 </section>
-
-
