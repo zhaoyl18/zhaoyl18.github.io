@@ -1,14 +1,14 @@
 ---
-permalink: /teaching/
+permalink: /teach/
 author_profile: true
-title: "Teaching"
+title: "Teach"
 redirect_from:
-  - /teaching.html
+  - /teach.html
 ---
 
 <!-- ## Courses -->
 
-At Princeton, I have been a teaching assistant for the following machine learning courses.
+At Princeton, I TAed for the following machine learning courses.
 
 - **2023 Fall / 2024 Fall / 2025 Fall**
   - ECE 435/ECE 535: Machine Learning and Pattern Recognition
