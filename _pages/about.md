@@ -21,7 +21,7 @@ My research focuses on modern reinforcement learning and generative AI systems (
 - Research Assistant @ Computer Science & Engineering, University of Washington
 - Bachelor @ Electronic Engineering, Tsinghua University
 
-## Publications
+## Selected Publications
 
 \* denotes equal contribution or alphabetical ordering.
 
@@ -34,14 +34,15 @@ My research focuses on modern reinforcement learning and generative AI systems (
   *NeurIPS 2025 Workshop on Mathematical Reasoning and AI*  
   [[arXiv]](http://arxiv.org/abs/2507.08794) [[Model]](https://huggingface.co/sarosavo/Master-RM) [[Dataset]](https://huggingface.co/datasets/sarosavo/Master-RM)
 
-- **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design**  
+<!-- - **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design**  
   Xingyu Su, Xiner Li, Masatoshi Uehara, Sunwoo Kim, **Yulai Zhao**, Gabriele Scalia, Ehsan Hajiramezanali, Tommaso Biancalani, Degui Zhi, Shuiwang Ji  
-  [[arXiv]](https://arxiv.org/abs/2507.00445)
+  *International Conference on Learning Representations (ICLR) 2026*  
+  [[arXiv]](https://arxiv.org/abs/2507.00445) -->
 
-- **Reward-Guided Refinement in Diffusion Models With Applications to Protein and DNA Design**  
+<!-- - **Reward-Guided Refinement in Diffusion Models With Applications to Protein and DNA Design**  
   Masatoshi Uehara, Xingyu Su, **Yulai Zhao**, Xiner Li, Aviv Regev, Shuiwang Ji, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2025*  
-  [[paper]](https://openreview.net/forum?id=9qzpNSTUYp) [[arXiv]](https://arxiv.org/abs/2502.14944) [[GitHub]](https://github.com/masa-ue/ProDifEvo-Refinement)
+  [[paper]](https://openreview.net/forum?id=9qzpNSTUYp) [[arXiv]](https://arxiv.org/abs/2502.14944) [[GitHub]](https://github.com/masa-ue/ProDifEvo-Refinement) -->
 
 - **Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review**  
   Masatoshi Uehara, **Yulai Zhao**, Chenyu Wang, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani  
