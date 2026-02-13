@@ -25,9 +25,9 @@ My research focuses on modern reinforcement learning and generative AI systems (
 
 \* denotes equal contribution or alphabetical ordering.
 
-- **Every Question Has Its Own Value: Reinforcement Learning with Explicit Human Values**  
+<!-- - **Every Question Has Its Own Value: Reinforcement Learning with Explicit Human Values**  
   Dian Yu, **Yulai Zhao**, Kishan Panaganti, Linfeng Song, Haitao Mi, Dong Yu  
-  [[arXiv]](https://arxiv.org/abs/2510.20187) [[Dataset]](https://huggingface.co/datasets/sarosavo/RLEV)
+  [[arXiv]](https://arxiv.org/abs/2510.20187) [[Dataset]](https://huggingface.co/datasets/sarosavo/RLEV) -->
 
 - **One Token to Fool LLM-as-a-Judge**  
   **Yulai Zhao**\*, Haolin Liu\*, Dian Yu, Sunyuan Kung, Meijia Chen, Haitao Mi, Dong Yu  
@@ -62,15 +62,15 @@ My research focuses on modern reinforcement learning and generative AI systems (
   *International Conference on Learning Representations (ICLR) 2025*  
   [[paper]](https://openreview.net/forum?id=svp1EBA6hA) [[arXiv]](https://arxiv.org/abs/2406.12120) [[GitHub]](https://github.com/zhaoyl18/CTRL)
 
-- **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
+<!-- - **Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Ehsan Hajiramezanali, Gabriele Scalia, Gokcen Eraslan, Avantika Lal, Sergey Levine, Tommaso Biancalani  
   *Conference on Neural Information Processing Systems (NeurIPS) 2024*  
-  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e68274fc4f158dbcbd4dddc672f7ee9c-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2405.19673)  
+  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e68274fc4f158dbcbd4dddc672f7ee9c-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2405.19673)   -->
 
-- **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
+<!-- - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2024*  
-  [[paper]](https://proceedings.mlr.press/v235/uehara24a.html) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub]](https://github.com/zhaoyl18/SEIKO)
+  [[paper]](https://proceedings.mlr.press/v235/uehara24a.html) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub]](https://github.com/zhaoyl18/SEIKO) -->
 
 - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
