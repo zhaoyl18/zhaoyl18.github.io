@@ -44,9 +44,9 @@ My research focuses on modern reinforcement learning and generative AI systems (
   *International Conference on Machine Learning (ICML) 2025*  
   [[paper]](https://openreview.net/forum?id=9qzpNSTUYp) [[arXiv]](https://arxiv.org/abs/2502.14944) [[GitHub]](https://github.com/masa-ue/ProDifEvo-Refinement) -->
 
-- **Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review**  
+<!-- - **Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review**  
   Masatoshi Uehara, **Yulai Zhao**, Chenyu Wang, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani  
-  [[arXiv]](https://arxiv.org/abs/2501.09685) [[GitHub]](https://github.com/masa-ue/AlignInversePro)
+  [[arXiv]](https://arxiv.org/abs/2501.09685) [[GitHub]](https://github.com/masa-ue/AlignInversePro) -->
 
 - **Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-based Decoding**  
   Xiner Li, **Yulai Zhao**, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Shuiwang Ji, Aviv Regev, Sergey Levine, Masatoshi Uehara  
@@ -67,14 +67,14 @@ My research focuses on modern reinforcement learning and generative AI systems (
   *Conference on Neural Information Processing Systems (NeurIPS) 2024*  
   [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e68274fc4f158dbcbd4dddc672f7ee9c-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2405.19673)   -->
 
-<!-- - **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
+- **Feedback Efficient Online Fine-Tuning of Diffusion Models**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani  
   *International Conference on Machine Learning (ICML) 2024*  
-  [[paper]](https://proceedings.mlr.press/v235/uehara24a.html) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub]](https://github.com/zhaoyl18/SEIKO) -->
+  [[paper]](https://proceedings.mlr.press/v235/uehara24a.html) [[arXiv]](https://arxiv.org/abs/2402.16359) [[GitHub]](https://github.com/zhaoyl18/SEIKO)
 
-- **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
+<!-- - **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**  
   Masatoshi Uehara\*, **Yulai Zhao**\*, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Tommaso Biancalani, Sergey Levine  
-  [[arXiv]](https://arxiv.org/abs/2402.15194)  
+  [[arXiv]](https://arxiv.org/abs/2402.15194)   -->
 
 - **Provably Efficient CVaR RL in Low-rank MDPs**  
   **Yulai Zhao**\*, Wenhao Zhan\*, Xiaoyan Hu\*, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee  
