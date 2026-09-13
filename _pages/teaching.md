@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- ## Courses -->
 
-At Princeton, I TAed for the following machine learning courses.
+At Princeton, I TAed the following machine learning courses. 
 
 - **2023 Fall / 2024 Fall / 2025 Fall**
   - ECE 435/ECE 535: Machine Learning and Pattern Recognition
@@ -17,3 +17,6 @@ At Princeton, I TAed for the following machine learning courses.
 - **2024 Spring / 2025 Spring**
   - COS 435/ECE 433: Introduction to Reinforcement Learning [[Website]](https://ben-eysenbach.github.io/intro-rl/)  
   <!-- - 25 Spring Office Hour: Wednesday 7:00 pm — 9:00 pm, Friend Center 010; Monday 8:00 pm — 9:00 pm via [[Zoom]](<https://princeton.zoom.us/j/6061324339>) -->
+
+- **2026 Spring**
+  - COS 568: Systems and Machine Learning [[Website]](https://www.cs.princeton.edu/courses/archive/spring26/cos568/)  

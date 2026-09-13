@@ -15,8 +15,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
 
-  - title: "CV (PDF)"
-    url: https://yulaizhao.com/files/Yulai_Zhao_CV.pdf
+  # - title: "CV (PDF)"
+  #   url: https://yulaizhao.com/files/Yulai_Zhao_CV.pdf
   
   - title: "misc"
     url: https://yulaizhao.com/misc/  
